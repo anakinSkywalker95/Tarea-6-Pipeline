@@ -156,4 +156,26 @@ Coverage:    >95%
 
 ---
 
+---
+
+## Evidencias
+
+### Run exitoso en Actions
+
+![Run exitoso](docs/imagenes/run-exitoso.png)
+
+### Detalle de jobs: lint → test → build
+
+![Detalle jobs](docs/imagenes/detalle-jobs.png)
+
+### Reporte de cobertura de pruebas
+
+![Cobertura](docs/imagenes/cobertura.png)
+
+### Run fallido y su arreglo
+
+![Prueba fallida y arreglo](docs/imagenes/prueba-fallida.png)
+
+---
+
 ## Josue Erazo - Sistemas Operativos
