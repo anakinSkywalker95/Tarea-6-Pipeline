@@ -164,7 +164,7 @@ describe('esPrimo', () => {
   });
 
   test('97 es primo', () => {
-    expect(esPrimo(97)).toBe(false);  // falla intencional
+    expect(esPrimo(97)).toBe(true);
   });
 
   test('1 no es primo', () => {
